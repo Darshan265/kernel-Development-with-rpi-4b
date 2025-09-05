@@ -1,6 +1,7 @@
 # Getting Started with helloworld LKM on RPI 4b
 
-## Prerequisites (ref: https://github.com/Darshan265/MTech-Dissertation-RPI-NAS/tree/main/1.Prerequisite%20Setup )
+## Prerequisites 
+- ref: https://github.com/Darshan265/MTech-Dissertation-RPI-NAS/tree/main/1.Prerequisite%20Setup 
 - Raspberry Pi 4B with Raspberry Pi OS (preferably 32-bit "Buster" or later)
 - build-essential, raspberrypi-kernel-headers installed
 - Terminal or SSH access to Pi
